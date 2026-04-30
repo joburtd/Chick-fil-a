@@ -50,7 +50,7 @@ export default function App() {
       name: "Original Chicken Sandwich", 
       price: "$5.49", 
       desc: "A pressure-cooked chicken breast on a toasted buttered bun with dill pickle chips.", 
-      image: "https://images.unsplash.com/photo-1606755962773-9e217a571f8b?auto=format&fit=crop&q=80&w=800",
+      image: "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&q=80&w=800",
       color: "bg-red-50" 
     },
     { 
@@ -66,7 +66,7 @@ export default function App() {
       name: "Waffle Potato Fries", 
       price: "$3.29", 
       desc: "Waffle-cut potatoes cooked in canola oil until crispy outside and tender inside.", 
-      image: "https://images.unsplash.com/photo-1630384066272-11751df163fe?auto=format&fit=crop&q=80&w=800", 
+      image: "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&q=80&w=800", 
       color: "bg-yellow-50" 
     },
     { 
@@ -74,7 +74,7 @@ export default function App() {
       name: "Frosted Lemonade", 
       price: "$4.49", 
       desc: "A refreshing hand-spun treat that combines our signature Lemonade and Icedream® dessert.", 
-      image: "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?auto=format&fit=crop&q=80&w=800", 
+      image: "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&q=80&w=800", 
       color: "bg-blue-50" 
     },
     { 
@@ -82,7 +82,7 @@ export default function App() {
       name: "Grilled Chicken Cool Wrap", 
       price: "$8.99", 
       desc: "Sliced grilled chicken breast, fresh greens, and Monterey Jack and Cheddar cheeses.", 
-      image: "https://images.unsplash.com/photo-1626700051175-656fc7cae0bb?auto=format&fit=crop&q=80&w=800", 
+      image: "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&q=80&w=800", 
       color: "bg-orange-50" 
     },
     { 
@@ -90,7 +90,7 @@ export default function App() {
       name: "Peach Milkshake", 
       price: "$4.89", 
       desc: "A seasonal favorite hand-spun with real peaches and topped with whipped cream.", 
-      image: "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&q=80&w=800", 
+      image: "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&q=80&w=800", 
       color: "bg-pink-50" 
     },
   ];
