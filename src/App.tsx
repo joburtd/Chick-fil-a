@@ -1,5 +1,5 @@
-import { useState, useEffect } from 'react';
-import { motion, AnimatePresence, useScroll, useSpring } from 'motion/react';
+import { useState, useEffect, ReactNode } from 'react';
+import { motion, AnimatePresence } from 'motion/react';
 import { 
   Menu as MenuIcon, 
   X, 
@@ -16,7 +16,7 @@ import {
   MessageCircle
 } from 'lucide-react';
 
-const ScrollReveal = ({ children }: { children: React.ReactNode }) => (
+const ScrollReveal = ({ children }: { children: ReactNode; key?: any }) => (
   <motion.div
     initial={{ opacity: 0, y: 50 }}
     whileInView={{ opacity: 1, y: 0 }}
